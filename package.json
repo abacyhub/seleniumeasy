@@ -1,0 +1,22 @@
+{
+  "name": "seleniumeasy",
+  "version": "1.0.0",
+  "description": "cypress automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abacyhub/seleniumeasy.git"
+  },
+  "author": "abacyudofia@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abacyhub/seleniumeasy/issues"
+  },
+  "homepage": "https://github.com/abacyhub/seleniumeasy#readme",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
